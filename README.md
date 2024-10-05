@@ -3,10 +3,18 @@
 ## Overview
 This is a simple console-based C++ program that allows users to calculate distance, speed, or time based on user inputs. The program provides an interactive menu for users to select the desired calculation.
 
+<img width="351" alt="image" src="https://github.com/user-attachments/assets/3e79fdc0-ac25-4c73-a55c-d199e3d35d90">
 
 
 
-Develop By Sankar Das
+
+
+
+
+
+
+#### Develop by Sankar Das
+
 ## Features
 - Calculate Distance using speed and time.
 - Calculate Speed using distance and time.
@@ -61,6 +69,8 @@ Develop By Sankar Das
 - To calculate time:
   - Select `3` and enter distance and speed.
   - The program will output the calculated time.
+  - <img width="300" alt="image" src="https://github.com/user-attachments/assets/bdd3f048-1a87-4525-b37f-49038bddb0e9">
+
 
 ## Note
 - Ensure that the inputs for speed and time are not zero to avoid division errors.
